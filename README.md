@@ -1,6 +1,6 @@
 # API Data Analysis Project
 
-This project accesses an API at https://u--1.com/api, downloads the data, and creates a graph representation of the data where applicable.
+This project accesses an API at https://api.example.com (replace with the actual API URL from the website), downloads the data, and creates a graph representation of the data where applicable.
 
 ## Data Fields
 
