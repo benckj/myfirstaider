@@ -1,0 +1,479 @@
+{
+  "lastUpdated": 1728233296,
+  "value": [
+    {
+      "address": "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0",
+      "metadata": {
+        "name": "EigenDA",
+        "website": "https://docs.eigenlayer.xyz/eigenda/overview/",
+        "description": "EigenDA is a data availability solution with 10 MiB/s of write throughput and the lowest cost in its class. The system's design is inspired by Danksharding, which promises to scale Ethereum's DA beyond EIP-4844. EigenDA is available today. Learn more at https://docs.eigenlayer.xyz/eigenda/overview/",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x870679e138bcdf293b7ff14dd44b70fc97e12fc0/logo.png",
+        "twitter": "https://twitter.com/eigen_da"
+      },
+      "operatorCount": 209,
+      "rewardTokens": null,
+      "stakerCount": 89605,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "51033294019777127686907",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "782085218084502772584",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "22556418933673415251451",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "31136975493624151556104",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "8957622592144088104401",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "17274148260021119803653",
+        "0x6075546538c3efbd607ea6afc24149fccfb2edf4": "1050620027902034306995087",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32397187293270544663919",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "9497257796731026226166",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "489053880071294153793960",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71653432753948052237580",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6985014261286749827491",
+        "0xacb55c530acdb2849e6d4f36992cd8c9d50ed8f7": "86568953544588205781983820",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "10114599711409130047848",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "2621668894451578000000000"
+      },
+      "ethTvl": 3388346.1238989085
+    },
+    {
+      "address": "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2",
+      "metadata": {
+        "name": "Lagrange State Committees",
+        "website": "https://www.lagrange.dev/",
+        "description": "Lagrange State Committees are a ZK light client protocol for optimistic rollups that are designed through combining EigenLayer's restaked security with Lagrange's ZK Coprocessor.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2/logo.png",
+        "twitter": "https://twitter.com/lagrangedev"
+      },
+      "operatorCount": 87,
+      "rewardTokens": null,
+      "stakerCount": 84378,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "48454284077790432462631",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "781000892772988762574",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "21395229489537493973568",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "30776315839925510626675",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "8229761126601475588365",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32370501770798389840394",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3641350720275610322447",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "483031418877648259100598",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71277100634885544765625",
+        "0xacb55c530acdb2849e6d4f36992cd8c9d50ed8f7": "0",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "2407326049779508000000000"
+      },
+      "ethTvl": 3120430.25676776
+    },
+    {
+      "address": "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef",
+      "metadata": {
+        "name": "eoracle",
+        "website": "https://www.eoracle.io",
+        "description": "The modular and programmable oracle network secured by Ethereum, built with Eigenlayer.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef/logo.png",
+        "twitter": "https://twitter.com/eoracle_network"
+      },
+      "operatorCount": 128,
+      "rewardTokens": null,
+      "stakerCount": 57431,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "49041977791804065877642",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "447436207943628389765",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "21710076450400442773381",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "30826528261047497539619",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "8523273889423990945069",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "16669162175056147011490",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32362890032758389841010",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "4049100288116496996657",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "486057669706588067608932",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71671418741424838616893",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6982724270640093588922",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "10098332046811361679219",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "2700731449240873000000000"
+      },
+      "ethTvl": 3453501.917126048
+    },
+    {
+      "address": "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7",
+      "metadata": {
+        "name": "Witness Chain",
+        "website": "https://www.witnesschain.com",
+        "description": "The EigenLayer AVS for DePIN coordination. It is the first physical state consensus protocol which is unifying a siloed DePIN economy. Through WitnessChain, a shared economy of integrated physical assets is unlocked, facilitating the exchange of resources like computing power, energy, storage, and beyond.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7/logo.png",
+        "twitter": "https://twitter.com/witnesschain"
+      },
+      "operatorCount": 111,
+      "rewardTokens": null,
+      "stakerCount": 55944,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "48276014777099553209621",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "781572458394420787520",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "21420050286669012452609",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "30153285798510572018211",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "8610307622539892926523",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "13724206768533345394797",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32391539325328389840311",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3741456541762739411365",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "485265875790920333156568",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71660176784166891736794",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6970163654987997499940",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "10101593855533886900982",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "2622648636664660000000000"
+      },
+      "ethTvl": 3369899.184256731
+    },
+    {
+      "address": "0x1de75eaab2df55d467494a172652579e6fa4540e",
+      "metadata": {
+        "name": "ARPA Network",
+        "website": "https://www.arpanetwork.io/en-US",
+        "description": "The ARPA BLS Threshold Signature Scheme (BLS-TSS) Network is a cutting-edge decentralized cryptographic system designed to perform BLS threshold signature tasks. Leveraging the ARPA Network, Randcast provides secure and reliable random number generation on multiple prevailing blockchains.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x1de75eaab2df55d467494a172652579e6fa4540e/logo.png",
+        "twitter": "https://twitter.com/arpaofficial"
+      },
+      "operatorCount": 31,
+      "rewardTokens": null,
+      "stakerCount": 55712,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "40412299304581715510858",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "366455232684281637496",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "15162657842906555156626",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "19066075289452443255714",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "6082078903023545232246",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "12454265540719007940584",
+        "0x66ea956907f7ed2fd816106f2f4d8c384c6d4f92": "5674490700000000000000",
+        "0x74acf103148e183c87ed24ae1d2b3b2c6654fc0a": "1000000000000000",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32201733058693650915118",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "2818138334982328050081",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "439535662930963230902501",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "47055582354142365071980",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6919550965592041449852",
+        "0xacb55c530acdb2849e6d4f36992cd8c9d50ed8f7": "29997735072998544322762376",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "10062155606978110420382",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "815900064596641000000000"
+      },
+      "ethTvl": 1458967.820665788
+    },
+    {
+      "address": "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda",
+      "metadata": {
+        "name": "Lagrange ZK Prover Network",
+        "website": "https://www.lagrange.dev/",
+        "description": "Decentralized network for reliable generation of different ZK proofs with high liveness guarantees",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x22cac0e6a1465f043428e8aef737b3cb09d0eeda/logo.png",
+        "twitter": "https://twitter.com/lagrangedev"
+      },
+      "operatorCount": 79,
+      "rewardTokens": null,
+      "stakerCount": 55295,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "48331051228030557030415",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "775309231541924508889",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "20856268102512657059398",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "30628854219277249846824",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "7760526998874216790140",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32340968463258389839985",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3917002083169394693937",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "481181261670767010154659",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71320726982920952540712",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "2579146674292040000000000"
+      },
+      "ethTvl": 3289314.9617760424
+    },
+    {
+      "address": "0x71a77037870169d47aad6c2c9360861a4c0df2bf",
+      "metadata": {
+        "name": "AltLayer MACH",
+        "website": "https://altlayer.io/",
+        "description": "AltLayer MACH is a fast finality AVS for OP Mainnet and Arbitrum One. As an AVS, users can delegate ETH or LSTs to any of the registered operators. The economic collateral deposited to secure MACH is then used to attest to the validity of a given rollupâ€™s state; thereby offering a fast finality layer for rollups. It will offer the following core services to end users on these rollups: fast confirmation for rollup transactions, crypto-economic security to detect any malicious network participants and decentralized validation of rollup states.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x71a77037870169d47aad6c2c9360861a4c0df2bf/logo.png",
+        "twitter": "https://twitter.com/alt_layer"
+      },
+      "operatorCount": 43,
+      "rewardTokens": null,
+      "stakerCount": 52179,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "41440948016810020392421",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "389637760517373454909",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "18673081844039916923850",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "24666508604114055250580",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "7116616444829004760719",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "12652990463435767645743",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32115494553717313216275",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "2944043598431299100400",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "132924327633439618028156",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "793156092160943188746",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6926519945608008024907",
+        "0xacb55c530acdb2849e6d4f36992cd8c9d50ed8f7": "0",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "9775126509873984299223",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "702148247653903000000000"
+      },
+      "ethTvl": 1002306.6907909578
+    },
+    {
+      "address": "0xe8e59c6c8b56f2c178f63bcfc4ce5e5e2359c8fc",
+      "metadata": {
+        "name": "Hyperlane AVS",
+        "website": "https://hyperlane.xyz/",
+        "description": "Hyperlane is a modular and permissionless interoperability framework currently deployed on more than 35 EVM, Cosmos, and Sealevel chains. Learn more at https://www.hyperlane.xyz/.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0xe8e59c6c8b56f2c178f63bcfc4ce5e5e2359c8fc/logo.png",
+        "twitter": "https://x.com/hyperlane"
+      },
+      "operatorCount": 163,
+      "rewardTokens": null,
+      "stakerCount": 45619,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "39812835224384628232202",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "414937431385438739802",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "17765761669092387223292",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "20036490985639229219883",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "8143458471044844204000",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "16349668234285146019848",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "29129618495801637218669",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3544502147722220639083",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "372523741289179594555467",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71588822088008100889784",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6950540477742947785243",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "10110124320590409231669",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "2312792052800203000000000"
+      },
+      "ethTvl": 2921625.385373015
+    },
+    {
+      "address": "0x1f2c296448f692af840843d993ffc0546619dcdb",
+      "metadata": {
+        "name": "Cyber MACH (Powered by AltLayer)",
+        "website": "https://cyber.co/",
+        "description": "Cyber is the L2 for social. By expanding web3's focus beyond finance, Cyber enables developers to create dApps that transform how people connect, create, monetize, and share value.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x1f2c296448f692af840843d993ffc0546619dcdb/logo.png",
+        "twitter": "https://x.com/BuildOnCyber"
+      },
+      "operatorCount": 61,
+      "rewardTokens": null,
+      "stakerCount": 42377,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "45237122534951027346180",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "407663746985307516231",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "17448882689345759753701",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "19726222784555932059624",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "7152412060487934045005",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "12670787470041491244131",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "33447771681696277250222",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3672753166232045396759",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "475789045590664905069013",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71262701644241300094317",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6940245116639867526048",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "9775556136731057783024",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "1682723731974221000000000"
+      },
+      "ethTvl": 2399073.6291221306
+    },
+    {
+      "address": "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3",
+      "metadata": {
+        "name": "OpenLayer",
+        "website": "https://openlayer.tech/",
+        "description": "OpenLayer is the first modular authentic data layer designed to modernize traditional data flows. Contributed to by everyone and every device, OpenLayer offers a modular solution that coordinates data collection, validation, and transformation, catering both web2 and web3 companies. OpenLayer is backed by a16z CSX, Geometry Ventures, LongHash Ventures, and various renowned angel investors.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3/logo.png",
+        "twitter": "https://twitter.com/OpenLayerHQ"
+      },
+      "operatorCount": 64,
+      "rewardTokens": null,
+      "stakerCount": 39439,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "42381918086015594827439",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "406537552705401054805",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "16920389619600982327268",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "19529012197777210744187",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "7225686288781720133597",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "12585543074472572895277",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "31720156448225201017327",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3533650736890313273734",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "475228826509362544141961",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71586179074460856867777",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6936519201073542747165",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "10079458923546299809940",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "1404955896881165000000000"
+      },
+      "ethTvl": 2115569.4459513407
+    },
+    {
+      "address": "0x9fc952bdcbb7daca7d420fa55b942405b073a89d",
+      "metadata": {
+        "name": "Brevis coChain AVS",
+        "website": "https://brevis.network",
+        "description": "Brevis is a smart ZK coprocessor that empowers smart contracts to read from and utilize the full historical on-chain data from any chain, and run customizable computations in a completely trust-free way to power use cases such as data-driven DeFi, zkBridge, ZK identity and more. Using EigenLayer, Brevis coChain AVS enable a new crypto-economics security with ZK fraud proof ZK Coprocessor model. With Brevis AVS, developers can build data-driven dApps that operate at a significantly lower cost when compared to the pure-ZK model.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x9fc952bdcbb7daca7d420fa55b942405b073a89d/logo.png",
+        "twitter": "https://twitter.com/brevis_zk"
+      },
+      "operatorCount": 73,
+      "rewardTokens": null,
+      "stakerCount": 34767,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "29157257319289115921020",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "675755087999299558124",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "15315607114898397969224",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "13617735382852786358728",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "4829019482978919625913",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "12662265531508522039593",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "27406611554380741752350",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3107542375469308005923",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "108108010879298800701551",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "46833267902852300698425",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "3328083264823634329670",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "354541508994184008808",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "1144232240527319000000000"
+      },
+      "ethTvl": 1418676.2222756143
+    },
+    {
+      "address": "0xe5445838c475a2980e6a88054ff1514230b83aeb",
+      "metadata": {
+        "name": "Automata Multi-Prover AVS",
+        "website": "https://ata.network",
+        "description": "Automata Network explores the development of TEE Coprocessors in the direction of a Multi-Prover AVS on EigenLayer. Decentralized systems bootstrap a secondary TEE Prover to minimize network-breaking bugs and achieve better security and decentralization. The approach is augmented by the introduction of TEE Committees, with the Multi-Prover AVS dually bounded by machine trust and cryptoeconomic security.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0xe5445838c475a2980e6a88054ff1514230b83aeb/logo.png",
+        "twitter": "https://twitter.com/automatanetwork"
+      },
+      "operatorCount": 73,
+      "rewardTokens": null,
+      "stakerCount": 34725,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "43998143624785015295614",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "740336588787400044066",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "17099167083034279612849",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "19577737726728680827466",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "7303316359530552134087",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "12631144698633916224090",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32307623408075201017325",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "3219249781345829813332",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "475125701810764946753045",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "71252461116062637913370",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6940264559943017118872",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "10081106829614740509196",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "977734418435063000000000"
+      },
+      "ethTvl": 1690675.970361964
+    },
+    {
+      "address": "0x6026b61bdd2252160691cb3f6005b6b72e0ec044",
+      "metadata": {
+        "name": "Xterio Mach (Powered by AltLayer)",
+        "website": "https://xter.io/",
+        "description": "Xterio is a Web3 game developer and publisher founded by veterans of the game industry. Our mission is to create deep and rich gaming experiences driven by player ownership. We create rich worlds, stories, and characters to bring you amazing experiences. We make games because we love them and strive to make every Xterio game memorable and FUN!",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x6026b61bdd2252160691cb3f6005b6b72e0ec044/logo.png",
+        "twitter": "https://twitter.com/XterioGames"
+      },
+      "operatorCount": 42,
+      "rewardTokens": null,
+      "stakerCount": 30433,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "41321616100987085954528",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "389137760517373454909",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "18604876714277220903334",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "24653759881812333488379",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "6818321332169398991400",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "12634616575002944136454",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "32085131625697313216275",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "2943111787953939177582",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "132640573169920919489789",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "790050888656892117520",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "6926519945608008024907",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "9764880515733357748887",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "701634826110889000000000"
+      },
+      "ethTvl": 1000903.157170049
+    },
+    {
+      "address": "0xd50e0931703302b080880c45148f5d83ea66ae2a",
+      "metadata": {
+        "name": "DODOchain MACH (Powered by AltLayer)",
+        "website": "https://www.dodochain.com/",
+        "description": "DODOchain is an Omni-Trading Layer3, powered by the integration of Arbitrum, EigenLayer, and AltLayer. As a rollup-level liquidity layer, it connects Ethereum rollups and Bitcoin networks, consolidating liquidity into a single platform for seamless cross-chain trading. Leveraging its status as a Restaked Rollup, DODOchain offers decentralized verification and rapid finality, significantly enhancing both security and efficiency in the Omni-chain era.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0xd50e0931703302b080880c45148f5d83ea66ae2a/logo.png",
+        "twitter": "https://twitter.com/DODO_chain"
+      },
+      "operatorCount": 37,
+      "rewardTokens": null,
+      "stakerCount": 16394,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "16130149003833233362107",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "25653899555620227026",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "4019063936448304118990",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "1856323808166999396413",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "2952224450483595414725",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "295207558409187819899",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "4798723080457706026080",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "704710536037768765006",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "33000984650404518621140",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "360941372672775909794",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "797371389882630666273",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "22789400632475150799",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "105403479784067000000000"
+      },
+      "ethTvl": 172640.38782534003
+    },
+    {
+      "address": "0xb3acaf09a1b801e36655b786da4eaa6ae9f5dc37",
+      "metadata": {
+        "name": "GM Network MACH (Powered by AltLayer)",
+        "website": "https://gmnetwork.ai/",
+        "description": "GM Network is the first consumer AIoT network. The GM Network's modular ecosystem is designed to facilitate the large-scale adoption of AIoT (AI + IoT) by significantly reducing costs and barriers for developers. It consists of three primary layers: the Asset Layer, the Data Layer, and the User Layer.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0xb3acaf09a1b801e36655b786da4eaa6ae9f5dc37/logo.png",
+        "twitter": "https://x.com/GMNetwork_AI"
+      },
+      "operatorCount": 33,
+      "rewardTokens": null,
+      "stakerCount": 14993,
+      "strategyAndShare": {
+        "0x0fe4f44bee93503346a3ac9ee5a26b130a5796d6": "15242392345420858606858",
+        "0x13760f50a9d7377e4f20cb8cf9e4c26586c658ff": "50691075974879115129",
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "3881465103200333757303",
+        "0x298afb19a105d59e74658c4c334ff360bade6dd2": "1497573366008154930733",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "2180719192514443247212",
+        "0x57ba429517c3473b6d34ca9acd56c0e735b94c02": "309956168918357181912",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "4747532802736155923930",
+        "0x8ca7a5d6f3acd3a7a8bc468a8cd0fb14b6bd28b6": "755675305885553007432",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "23633917556832522384701",
+        "0x9d7ed45ee2e8fc5482fa2428f15c971e6369011d": "289550033758710835882",
+        "0xa4c637e0f704745d182e4d38cab7e7485321d059": "800378366345458201203",
+        "0xae60d8180437b5c34bb956822ac2710972584473": "6074478879900382749",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "75725361891776000000000"
+      },
+      "ethTvl": 131238.77068491298
+    },
+    {
+      "address": "0xed2f4d90b073128ae6769a9a8d51547b1df766c8",
+      "metadata": {
+        "name": "Omni Network",
+        "website": "https://omni.network/",
+        "description": "Omni is an Ethereum-native interoperability protocol that establishes low latency communications across Ethereumâ€™s rollup ecosystem. Restaking enables Omni to establish a new precedent for secure, performant, and globally compatible interoperability for the future of Ethereumâ€™s modular ecosystem.",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0xed2f4d90b073128ae6769a9a8d51547b1df766c8/logo.png",
+        "twitter": "https://twitter.com/OmniFDN"
+      },
+      "operatorCount": 50,
+      "rewardTokens": null,
+      "stakerCount": 12619,
+      "strategyAndShare": {
+        "0x1bee69b7dfffa4e2d53c2a2df135c388ad25dcd2": "15689846252519998165738",
+        "0x54945180db7943c0ed0fee7edab2bd24620256bc": "7031955141938583495273",
+        "0x7ca911e83dabf90c90dd3de5411a10f1a6112184": "30890803682676236983061",
+        "0x93c4b944d05dfe6df7645a86cd2206016c51564d": "137729369534218369747492",
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "569020947043093000000000"
+      },
+      "ethTvl": 764413.8820843383
+    },
+    {
+      "address": "0x2d86e90ed40a034c753931ee31b1bd5e1970113d",
+      "metadata": {
+        "name": "UniFi AVS",
+        "website": "https://unifi.puffer.fi/",
+        "description": "UniFi AVS - Preconfirmations for the next generation of rollups",
+        "logo": "https://mainnet-ethereum-avs-metadata.s3.amazonaws.com/0x2d86e90ed40a034c753931ee31b1bd5e1970113d/logo.png",
+        "twitter": "https://x.com/puffer_unifi"
+      },
+      "operatorCount": 21,
+      "rewardTokens": null,
+      "stakerCount": 356,
+      "strategyAndShare": {
+        "0xbeac0eeeeeeeeeeeeeeeeeeeeeeeeeeeeeebeac0": "649964656150531000000000"
+      },
+      "ethTvl": 649964.656150531
+    }
+  ]
+}
